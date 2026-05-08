@@ -100,7 +100,8 @@ Data Analytics Enthusiast | Python Developer | AI & ML Learner
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
+
 <a href="https://linkedin.com/in/yogendra-kumar-5a4a16298" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
@@ -108,4 +109,9 @@ Data Analytics Enthusiast | Python Developer | AI & ML Learner
 <a href="https://github.com/Yogendra9054kumar" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
 </a>
+
+<a href="https://bird-species-observation-analysis-sniysfmygoqez3fuyrfgwg.streamlit.app/" target="_blank">
+<img src="https://img.shields.io/badge/Streamlit-Live_App-red?style=for-the-badge&logo=streamlit" />
+</a>
+
 </p>
