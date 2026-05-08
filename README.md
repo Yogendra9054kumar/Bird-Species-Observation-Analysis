@@ -95,3 +95,17 @@ Final-Year B.Tech CSE (AI & DS) Student
 Data Analytics Enthusiast | Python Developer | AI & ML Learner
 
 ⭐ If you found this project useful, consider giving it a star on GitHub!
+
+
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/yogendra-kumar-5a4a16298" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/Yogendra9054kumar" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+</a>
+</p>
